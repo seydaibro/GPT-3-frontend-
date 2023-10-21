@@ -1,0 +1,6 @@
+export {Blog} from './blog/Blog'
+export {Features} from './features/Features'
+export {Footer} from './footer/Footer'
+export {Posibility} from './possibility/Posibility'
+export {Header} from './header/Header'
+export {WhatGPT3} from './WhatGPT3/WhatGPT3'
